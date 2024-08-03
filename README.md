@@ -1,1 +1,1 @@
-# EmoTune-FER
+EmoTune is a real-time Facial Emotion Recognition (FER) project that captures and processes video frames to detect and visualize human emotions. Utilizing advanced machine learning models and Mediapipe for landmark detection, EmoTune accurately interprets facial expressions and hand gestures, providing immediate music recommendation based on the mood.
